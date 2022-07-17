@@ -1,5 +1,6 @@
 1. download the portwest-test repository.<br/>
 Install composer <br/>
+npm install and npm run dev
 copy .env.example to .env<br/>
 configure .env file<br/>
 create database name:portwest_test in localhost/phpmyadmin<br/>
